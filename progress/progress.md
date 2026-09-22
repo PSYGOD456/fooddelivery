@@ -3,16 +3,17 @@
 | Activity | Status | Remarks |
 |---|---|---|
 | Project Selection | Completed | Food Delivery App selected |
-| Requirement Analysis | Completed | Requirements identified |
-| SRS | Completed | SRS prepared |
-| Use Case Diagram | Completed | Actors and use cases identified |
-| ER Diagram | Completed | Database entities designed |
-| DFD | In Progress | Data flow being designed |
-| Activity Diagram | In Progress | User activities being documented |
-| Class Diagram | To Do | Yet to be completed |
-| Sequence Diagram | To Do | Yet to be completed |
-| UI Design | In Progress | Application screens being designed |
-| Database Implementation | In Progress | Database development |
-| Application Development | In Progress | Coding in progress |
-| Testing | To Do | Testing pending |
-| Documentation | To Do | Final documentation pending |
+| Requirement Analysis | Completed | Customer, restaurant and order requirements identified |
+| GitHub Repository | Completed | Repository created and maintained |
+| User Registration | Completed | Registration flow implemented |
+| User Login | Completed | Login validation implemented |
+| Restaurant Selection | Completed | Restaurants and food items displayed |
+| Food Menu | Completed | Food items and prices displayed |
+| Search Food | In Progress | Search functionality being refined |
+| Cart Management | In Progress | Add/remove/quantity handling implemented and being refined |
+| Order Placement | In Progress | Basic order placement implemented; further refinement planned |
+| Payment | To Do | Planned for a later session |
+| Delivery Tracking | To Do | Planned for a later session |
+| Order History | To Do | Planned for a later session |
+| Testing | In Progress | Test cases prepared and functions being verified |
+| Documentation | In Progress | README, storyboard and progress records maintained |
