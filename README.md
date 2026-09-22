@@ -1,60 +1,68 @@
-# fooddelivery
-a simple food delivery system
-# Food Delivery App – Software Engineering Lab Storyboard
+# Food Delivery App
+
+A simple Food Delivery App developed as a Software Engineering laboratory project.
 
 ## Project Overview
 
-The Food Delivery App is a software application that allows customers to browse restaurants, view food items, place orders, make payments and track their deliveries. The system also allows restaurants to manage food items and orders, while delivery personnel can manage and update delivery status.
+The application allows customers to log in, browse food items from restaurants, search for food, add items to a cart and place an order.
 
-## Objectives
+## Features
 
-- Allow customers to register and log in
-- Browse restaurants and food items
-- Search for food items
-- Add food items to a cart
-- Place food orders
-- Make payments
-- Track orders
-- Manage restaurant information
-- Manage food items
-- Manage delivery status
-- Provide order history
+- Customer login validation
+- Restaurant and food item listing
+- Food search
+- Add food to cart
+- Remove food from cart
+- Automatic cart total
+- Order placement
+- Basic order ID generation
+- Test cases and project storyboard
 
 ## Technologies Used
 
-- Java
-- Java Swing
-- MySQL
-- JDBC
+- HTML
+- CSS
+- JavaScript
 - GitHub
 
-## Main Modules
+## Project Modules
 
-1. Customer Management
-2. Restaurant Management
-3. Food Menu Management
+1. Customer Login
+2. Restaurant and Food Menu
+3. Food Search
 4. Cart Management
 5. Order Management
-6. Payment Management
-7. Delivery Management
-8. Admin Management
-9. Order Tracking
+6. Payment – planned
+7. Delivery Tracking – planned
+8. Order History – planned
+
+## Project Files
+
+- `app/index.html` – application interface
+- `app/style.css` – application styling
+- `app/script.js` – application logic
+- `storyboard.md` – laboratory storyboard and progress
+- `test-cases.md` – test cases for the application
+
+## How to Run
+
+Open `app/index.html` in a web browser.
 
 ## Software Engineering Activities
 
 1. Requirement Analysis
 2. SRS Preparation
-3. Use Case Diagram
-4. ER Diagram
-5. Data Flow Diagram
-6. Activity Diagram
-7. Class Diagram
-8. Sequence Diagram
-9. UI Design
-10. Implementation
-11. Testing
-12. Documentation
+3. System Design
+4. UI Design
+5. Implementation
+6. Testing
+7. Documentation
+8. Progress Tracking using GitHub
+
+## Current Progress
+
+The basic working prototype is implemented. Search, login validation, cart management and order placement are functional. Payment, delivery tracking and order history are kept as future modules for further laboratory sessions.
 
 ## Project Management
 
-The project progress is tracked using GitHub Projects, Issues and Commits.
+The project progress is recorded through GitHub files and commits.
